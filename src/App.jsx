@@ -18,7 +18,9 @@ import {
 
 // --- Firebase Configuration ---
 // Ensure you have replaced these with your actual keys from the Firebase Console!
-const firebaseConfig = {
+co
+nst firebaseConfig = {
+
   apiKey: "AIzaSyCv-FDx-2SUgYY73ud5v0dUBXeWjOQG_Lg",
   authDomain: "tanitan-notes.firebaseapp.com",
   projectId: "tanitan-notes",
